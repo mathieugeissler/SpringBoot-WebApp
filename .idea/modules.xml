@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back-spring-boot/back-spring-boot.iml" filepath="$PROJECT_DIR$/back-spring-boot/back-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-spring-boot/client-spring-boot.iml" filepath="$PROJECT_DIR$/client-spring-boot/client-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-spring-boot.iml" filepath="$PROJECT_DIR$/webapp-spring-boot.iml" />
+    </modules>
+  </component>
+</project>
